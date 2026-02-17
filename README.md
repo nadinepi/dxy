@@ -3,7 +3,7 @@
 **Author**: Nadine Pigida
 
 ## Project Overview
-This project investigates patterns of genetic divergence between three sparrow populations. 
+This project investigates patterns of genetic divergence between three sparrow populations, given an unfiltered variant-only vcf file. 
 
 A reproducible Snakemake pipeline was developed to automate the entire workflow, from raw VCF filtering to statistical analysis and visualization.
 
