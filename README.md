@@ -35,6 +35,15 @@ The analysis pipeline consists of three main stages:
 
 ## Usage Instructions
 
+### Prerequisites
+You need [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed to run the workflow.
+
+To install Snakemake:
+```bash
+conda create -c conda-forge -c bioconda -n snakemake snakemake
+conda activate snakemake
+```
+
 ### 1. Clone the Repository
 Clone the project to your local environment:
 ```bash
