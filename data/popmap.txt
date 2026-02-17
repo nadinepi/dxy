@@ -1,0 +1,15 @@
+8N05240	Pop8N
+8N05890	Pop8N
+8N06612	Pop8N
+8N73248	Pop8N
+8N73604	Pop8N
+K006	PopK
+K010	PopK
+K011	PopK
+K015	PopK
+K019	PopK
+Lesina_280	PopLesina
+Lesina_281	PopLesina
+Lesina_282	PopLesina
+Lesina_285	PopLesina
+Lesina_286	PopLesina

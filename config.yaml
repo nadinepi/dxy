@@ -1,0 +1,21 @@
+# config.yaml
+
+raw_vcf: "data/ProjTaxa.vcf.gz"
+outgroup: "Naxos2"
+
+# filtering criteria
+min_mean_dp: 5
+max_mean_dp: 20
+min_dp: 5
+max_dp: 20
+max_missing: 0.9
+min_gq: 20
+min_dp_indv: 5
+min_maf: 0.03
+
+pixy_pop_file: "data/popmap.txt"
+pixy_window_size: 50000
+pixy_stats: "dxy"
+
+intermediate_dir: "intermediate"
+results_dir: "results"
